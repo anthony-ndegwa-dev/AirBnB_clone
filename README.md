@@ -48,4 +48,4 @@ Example 1:
 	(hbnb) all User
 	["[User] (e9ab8ab9-c6a7-4dba-b5ff-eb5d84b59fdd) {'id': 'e9ab8ab9-c6a7-4dba-b5ff-eb5d84b59fdd', 'created_at': datetime.datetime(2023, 2, 8, 8, 19, 41, 642322), 'updated_at': datetime.datetime(2023, 2, 8, 8, 19, 41, 642370)}"]
 	(hbnb) show User
-** instance id missing **
+	** instance id missing **
