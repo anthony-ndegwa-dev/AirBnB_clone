@@ -25,6 +25,7 @@ Starting Command Interpreter:
 Usage:
 
 	Commands 	Description
+	=======================================================================
 	create 		Creates object of given class
 	show 		Prints the string representation of an instance based on the class name and id
 	all 		Prints all string representation of all instances based or not on the class name
