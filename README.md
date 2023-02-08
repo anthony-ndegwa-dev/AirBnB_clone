@@ -2,9 +2,7 @@
 
 Description:
 
-	Creating a clone of AirBnB web application by first creating a basic console using Cmd Python module,
-making it possible to implement methods show, create, update and destroy to the existing classes
- and subclasses.
+	Creating a clone of AirBnB web application by first creating a basic console using Cmd Python module, making it possible to implement methods show, create, update and destroy to the existing classes and subclasses.
 
 
 Environment:
