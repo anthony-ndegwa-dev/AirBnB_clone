@@ -32,7 +32,7 @@ class BaseModel:
     def save(self):
         """updates last modify time
         """
-        self.updated_at = datetime.utcnow()
+        self.updated_at = datetime.now()
         storage.save()
 
     def to_dict(self):
