@@ -1,22 +1,30 @@
-/* Body style */
-body {
-  color: #484848;
-  font: 14px Circular, "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-/* Block horizontal scrolling */
 html, body {
-  width: 100%;
-  overflow-x: hidden;
+  padding: 0;
+  margin: 0;
+  min-height: 100vh;
 }
 
-/* Container style */
+html {
+  position: relative;
+}
+
+body {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
 .container {
-  margin: 30px auto;
-  max-width: 1000px;
+    max-width: 1000px;
+    margin: 30px auto;
 }
 
-/* Strong style */
-strong {
-  font-weight: bold;
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+}
+
+ul {
+  list-style: none;
+  padding: 10px;
 }
